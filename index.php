@@ -1,3 +1,14 @@
+ <!-- Nicolle si ves esto estare comprimiendo todo el codigo de la pagina por si algo se modifica.. ;)-->
+
+<!-- 
+* Linea 94-144 MINI GALERIA 
+* linea 199-240 Carrusel de Imagenes de los creadores!
+* Linea 246-258 Las Cookies
+
+La galeria de imagenes esta en galeria.php
+La galeria de proyectos como autocad y tikercard en proyectos.php
+-->
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -83,33 +94,51 @@
       </div>
     </section>
 
-<!-- MINI GALERIA -->
+<!-- MINI GALERIA SOLO EDITAR EL (SRC el contenido solo se puede ver .gif, .png, .jpg) -->
+		
     <section class="features" id="features">
       <div class="max-width">
         <h2 class="title">Mini Galeria</h2>
         	<div class="features-content">
-         
+
+						
 					<div class="containergf">
 							<div class="gallery">
+								
+								<!-- Example CARD -->
+								<div class="img-w">
+										<img src="https://c.tenor.com/2eYuFmXBLaIAAAAM/bill-cipher-gravity-falls.gif" alt="" />
+									</div>
+								
   								<div class="img-w">
-    								<img src="https://images.unsplash.com/photo-1485766410122-1b403edb53db?dpr=1&auto=format&fit=crop&w=1500&h=846&q=80&cs=tinysrgb&crop=" alt="" /></div>
+    								<img src="imges.png" alt="" />
+									</div>
+								<!-- Example CARD -->
+								
   								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485793997698-baba81bf21ab?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=" alt="" /></div>
+										<img 	src="https://c.tenor.com/YBgSO6sUEYMAAAAC/giffany-adorable.gif" alt=""/>
+									</div>
+								
   								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485871800663-71856dc09ec4?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=" alt="" /></div>
+										<img src="re.jpeg" alt="" />
+									</div>
+								
   								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485871882310-4ecdab8a6f94?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=" alt="" /></div>
+										<img src="https://c.tenor.com/xTxyHvkLrt8AAAAS/giffany-disney-gravity-falls.gif" alt="" />
+									</div>
+								
   								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485872304698-0537e003288d?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=" alt="" /></div>
+										<img src="start.jpeg" alt="" />
+									</div>
+								
   								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485872325464-50f17b82075a?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=" alt="" /></div>
-  								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1470171119584-533105644520?dpr=1&auto=format&fit=crop&w=1500&h=886&q=80&cs=tinysrgb&crop=" alt="" /></div>
-  								<div class="img-w">
-										<img src="https://images.unsplash.com/photo-1485881787686-9314a2bc8f9b?dpr=1&auto=format&fit=crop&w=1500&h=969&q=80&cs=tinysrgb&crop=" alt="" /></div>
+										<img src="https://c.tenor.com/BaVfWSbyOtEAAAAC/giffany-glitch.gif" alt="" />
+									</div>
+								
+  								
+									</div>
 							</div>
-</div>
-              
+						</div>     
 					</div>
           </div>
         </div>
@@ -117,6 +146,7 @@
 <!--FIN DE LA MINI GALERIA -->
 		
 <!-- Conotaciones -->
+		<!-- Line of box that saves with a container the redirections of several pages -->
     
     <section class="stats" id="stats">
       <div class="max-width">
@@ -126,13 +156,13 @@
 
         <div class="stats-content">
           <div class="card">
-             <a href="galeria.php" >
+             <a href="redirect-gallery.php">
             <div class="box">
               <i class="fa fa-camera"></i>
 
               <div class="text">Galeria</div>
 
-              <p id="fa fa-camera">40</p>
+              <p id="fa fa-camera">49</p>
             </div>
   </a>
           </div>
@@ -163,6 +193,10 @@
           </div>
         </div>
       </div>
+
+		<!-- FIN DE LAS Conotaciones -->
+
+			
     </section>
 
     <section class="contributors" id="contributors">
@@ -177,18 +211,18 @@
                       <img src="https://images-ext-2.discordapp.net/external/RjLIMta_WmWBaPHwKLPuwzsazEC-ZkGJ4Z3IoMXJhOI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/903323405951070208/acf9f13fd6b9a51977ca99b321bbab27.png?width=510&height=510" alt>
                       <div class="text">Antonio Mendez</div>
                       <p>
-                          <button class="badges owner">Admin</button>
+                          <button class="badges owner"><a  class="gamesecret" href="./GAMEreward/_[]jl.php">ADMIN</a></button>
                           <button class="badges developer">Web Desing</button>
                       </p>
                   </div>
               </div>
         <div class="cardd">
           <div class="boxx">
-              <img src="https://i.imgur.com/gcVo2Rx.png" alt>
+              <img src="https://pps.whatsapp.net/v/t61.24694-24/149372949_1286042118592355_1430450067255657738_n.jpg?ccb=11-4&oh=f2ac5b098103d15916ebf5873ff97513&oe=62A3FE58" alt>
               <div class="text">Geovanni Maldonado        </div>
               
               <p>
-                <button class="badges helper">Diseñador</button>
+                <button class="badges helper">PAGINA</button>
                 <button class="badges supporter">Proyectos</button>
               </p>
           </div>
@@ -196,18 +230,55 @@
         
       <div class="cardd">
         <div class="boxx">
-            <img src="https://i.imgur.com/MbT1LDC.gif" alt>
+            <img src="https://res.cloudinary.com/ddskoq3no/image/upload/v1653778300/FB_IMG_1653778201335_bnadct.jpg" alt>
             <div class="text">Alejandro Rangel</div>
             
             <p>
-              <button class="badges helper">Diseñador</button>
+              <button class="badges helper">PAGINA</button>
               <button class="badges supporter">Galeria</button>
             </p>
         </div>
     </div>
+	<!-- VIDEO -->
+						<div class="cardd">
+        <div class="boxx">
+            <img src="https://res.cloudinary.com/ddskoq3no/image/upload/v1653778114/WhatsApp_Image_2022-05-28_at_5.47.44_PM_uj2u9f.jpg" alt>
+            <div class="text">Kevin Alberto</div>
+            
+            <p>
+              <button class="badges helper">GALERIA</button>
+              <button class="badges supporter">VIDEO</button>
+            </p>
+        </div>
+    </div>
 
+						<div class="cardd">
+        <div class="boxx">
+            <img src="https://res.cloudinary.com/ddskoq3no/image/upload/v1653777668/expo.cad2022-28052022-0002_inomqs.jpg" alt>
+            <div class="text">Nicolle Guerrero</div>
+            
+            <p>
+              <button class="badges helper">GALERIA</button>
+              <button class="badges supporter">VIDEO</button>
+            </p>
+        </div>
+    </div>
+
+							<div class="cardd">
+        <div class="boxx">
+            <img src="https://res.cloudinary.com/ddskoq3no/image/upload/v1653778512/WhatsApp_Image_2022-05-28_at_5.54.45_PM_xqvecz.jpg" alt>
+            <div class="text">Jesus (Chuy)</div>
+            
+            <p>
+              <button class="badges helper">GALERIA</button>
+              <button class="badges supporter">VIDEO</button>
+            </p>
+        </div>
+    </div>
           
+<!--fin de galeria -->
 
+						
           </div>
       </div>
   </section>

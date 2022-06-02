@@ -500,7 +500,7 @@ footer span a:hover {
 }
 .longfazers span:nth-child(4) {
   top: 80%;
-  animation: lf4 0.5s linear infinite;
+  animation: lf4 0.7s linear infinite;
   animation-delay: -3s;
 }
 @keyframes lf {
@@ -541,3 +541,7 @@ footer span a:hover {
 }
 
 
+.gamesecret{
+	text-decoration: none;
+	color: black;
+}
